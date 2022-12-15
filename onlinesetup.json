@@ -1,0 +1,43 @@
+{
+   "isRedirect": false,
+   "message": "Hai there is new update for this app please download!",
+   "redirectUrl": "-",
+   "moreApps": [
+      {
+         "title": "Among Us Coloring Game New",
+         "description": "Among us coloring is awesome, cool and interesting Among Us game for teens and adults!",
+         "thumb": "https://raw.githubusercontent.com/craftlover33/sonicoloringmore/main/iconnn%20among.png",
+         "url": "https://play.google.com/store/apps/details?id=com.gimlovco.amonguscoloringgame"
+      },
+      {
+         "title": "Kawaii Gacha Coloring Game",
+         "description": "Kawaii Gacha Coloring Book is perfect for you who have a hobby of drawing, because with the Kawaii Gacha Coloring Book application you can learn to color cartoons, chibi, anime, funny characters. besides the Kawaii Gacha Coloring Book application can also be used as entertainment when you are bored.",
+         "thumb": "https://raw.githubusercontent.com/craftlover33/sonicoloringmore/main/iconnn%20kawaii.png",
+         "url": "https://play.google.com/store/apps/details?id=com.gimlovco.kawaiigachacoloring"
+      },
+      {
+         "title": "Dog Patrol Coloring Game",
+         "description": "Dog Patrol Coloring is a coloring app to learn about drawing, coloring, and painting. There are lots of cute characters. This coloring game, full of lots of very interesting and cool characters from favorite underwater sea life cartoon sponge and friends. designed for all ages in the family, perfect for phones and tablets.",
+         "thumb": "https://raw.githubusercontent.com/craftlover33/sonicoloringmore/main/iconn%20paw.png",
+         "url": "https://play.google.com/store/apps/details?id=com.gimlovco.dogpatrolcoloring"
+      },
+      {
+         "title": "Woody Toy Coloring Game",
+         "description": "Woody Toy coloring  game is the best drawing and coloring book designed for all boys and girls.Color your favorite characters from the series toys stories and learn to identify the different colors",
+         "thumb": "https://raw.githubusercontent.com/craftlover33/sonicoloringmore/main/iconnn2.png",
+         "url": "https://play.google.com/store/apps/details?id=com.gimlovco.woodycoloring"
+      },
+      {
+         "title": "Sponge Coloring Cartoon",
+         "description": "Sponge Coloring Cartoon is a coloring app to learn about drawing, coloring, and painting. There are lots of cute characters. This coloring game, full of lots of very interesting and cool characters from favorite underwater sea life cartoon sponge and friends. designed for all ages in the family, perfect for phones and tablets.",
+         "thumb": "https://raw.githubusercontent.com/craftlover33/sonicoloringmore/main/iconnn.png",
+         "url": "https://play.google.com/store/apps/details?id=com.gimlovco.spongecoloringcaroon"
+      },
+      {
+         "title": "Soni Coloring Hedgehog Cartoon",
+         "description": "Soni Coloring Hedgehog Cartoon Game is the best drawing and coloring book designed for all boys and girls.Color your favorite characters from the series toys stories and learn to identify the different colors",
+         "thumb": "https://raw.githubusercontent.com/craftlover33/sonicoloringmore/main/iconnnsoni.png",
+         "url": "https://play.google.com/store/apps/details?id=com.gimlovco.sonicoloringhedgehog"
+      }
+   ]
+}
